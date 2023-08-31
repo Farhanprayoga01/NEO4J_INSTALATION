@@ -1,5 +1,5 @@
 # NEO4J_INSTALATION IN UBUNTU SERVER
-NEO4J 4th VERSION INSTALATION
+Instalasi Neo4j versi 4 di Ubuntu Server
 
 ## Siapkan file neo4j yang akan di instalasikan
     wget https://neo4j.com/artifact.php?name=neo4j-enterprise-4.4.23unix.tar.gz -O neo4j-enterprise-4.4.16-unix.tar.gz
